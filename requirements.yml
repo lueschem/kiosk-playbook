@@ -1,0 +1,2 @@
+- src: https://github.com/lueschem/ansible-kiosk.git
+  version: master

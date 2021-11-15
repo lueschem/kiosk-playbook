@@ -1,0 +1,6 @@
+---
+- hosts: all
+  roles:
+    - ansible-kiosk
+      become: true
+      become_user: root
